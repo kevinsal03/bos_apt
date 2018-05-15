@@ -1,0 +1,12 @@
+Package: bos-test-pkg
+Maintainer: Kevin Salvatorelli
+Architecture: all
+Version: 0.1
+Filename: pool/main/b/bos-test-pkg/bos-test-pkg.deb
+Size: 700
+MD5sum: dd74af8782645cca34acc383fbe3bded
+SHA1: 88d31b295f0e3d432c29759c44b00ef8108fdaed
+SHA256: 63c09825f21fb70a4222414b59507ebc0180190f825811f0df980f98203c628d
+SHA512: bf88eecd397430074de20cbfdc20c1a4088c549159d47ccf03bd4055e3fab78e22568400dd32814bda14f1a6a76a98dc8e2b5bf52075166d374d04871444b131
+Description: test package
+
