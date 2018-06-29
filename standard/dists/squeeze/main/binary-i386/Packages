@@ -1,3 +1,15 @@
+Package: bos-python-modules
+Maintainer: Kevin Salvatorelli
+Architecture: all
+Version: 1.0
+Filename: pool/main/b/bos-python-modules/bos-python-modules.deb
+Size: 896
+MD5sum: 64e153d7b37ef0aa0ddb4acdbf93faa9
+SHA1: d250de5c96851323922221c259c19c77ad085cd8
+SHA256: 9b89fdf9f3b3a9f04e2ae8806d1250c4e93c5e2f35f32c158ed97fbf32fd8431
+SHA512: dec3941d183872164f01fb43ab7126c4172579ce553e1fd142cdb5d33a92d2d2c437a8c4f43cf680341e1aa85e41a4e27b7f797eed147a077b9d0dab5dcefd95
+Description: Python modules required for some BOS functions
+
 Package: bos-test-pkg
 Maintainer: Kevin Salvatorelli
 Architecture: all
